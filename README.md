@@ -5,6 +5,10 @@ Currently focused on **React**, **Node.js**, and **AI-powered apps** — creatin
 
 ---
 
+## Stats
+![Pritam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritamaber&show_icons=true&theme=radical)
+
+
 ## 🚀 Projects in Progress
 
 ### 🧠 TaskJet  
