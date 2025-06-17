@@ -44,7 +44,7 @@ AI + API optimized to run on low cost infra with GPT-powered suggestions.
 ---
 
 ## 📬 Let’s Connect
-- 💼 LinkedIn: [pritamaber](https://linkedin.com/in/pritamaber)
+- 💼 LinkedIn: [pritamaber](https://www.linkedin.com/in/pritam-das-0a00b5178/)
 - 🐦 Twitter: [@pritam_dev](https://twitter.com/pritam_dev)
 - 💬 Email: `pritam.aber@gmail.com`
 
