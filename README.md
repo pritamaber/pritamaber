@@ -17,7 +17,7 @@ Currently focused on **React**, **Node.js**, and **AI-powered apps** — creatin
 
 ### 🧠 TaskJet  
 A minimal task manager for devs and students.  
-Built with React + Tailwind + Drag-and-drop.  
+Built with React + Tailwind + Drag-and-drop(soon).  
 🎯 Focus on speed, tags, project-based workflows, and dark mode.  
 [🔗 Live Demo](https://taskjet.impritam.com)
 
@@ -27,12 +27,6 @@ Built with React + Tailwind + Drag-and-drop.
 A clean and fast bookmark manager — save links, search instantly, and organize with ease.  
 Planned browser extension and mobile support.  
 [🔗 Live Demo](https://linkpass.impritam.com)
-
----
-
-### 🧭 StudyPath AI *(Coming Soon)*  
-Personalized roadmap generator for Indian students.  
-AI + API optimized to run on low cost infra with GPT-powered suggestions.
 
 ---
 
